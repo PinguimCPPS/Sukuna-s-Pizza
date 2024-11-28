@@ -1,0 +1,213 @@
+
+       body, p{
+        margin: 0px;
+        padding: 0px;
+        font-size: 1.2rem;
+        font-family: Arial, Helvetica, sans-serif;
+
+       }
+       body{
+        background-image: url(seamless-pizza-ingredients_1176-269.png);
+       }
+       
+       @font-face {
+            font-family: Jujutsu Kaisen;
+            src: url(C:\Users\aluno\Desktop\sukuna-20241010T124533Z-001\sukuna);
+        }
+        h1{
+            text-align: center;
+            font-family: Jujutsu Kaisen;   
+            font-size: 80px;
+           -webkit-text-stroke: 0.5px;
+           -webkit-text-stroke-color: black;
+            color: rgb(227, 227, 5);
+          
+        }
+        h2{
+            font-size: 80px;
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        header{
+            background-color: rgb(152, 20, 20);
+            display: flex;
+            justify-content: flex-start;
+          
+            align-items: flex-start;
+            flex-direction: column;
+        }
+
+        nav {
+            width: 100%;
+            font-size: 30px;
+            font-family: Jujutsu Kaisen;
+            display: flex;
+            justify-content: left;
+            background-color: rgb(50, 48, 48);
+        }
+
+        nav a {
+            -webkit-text-stroke: 1px;
+            -webkit-text-stroke-color: black;
+            color: rgb(234, 234, 2);
+            padding: 20px;
+            text-decoration: none;
+        }
+
+        nav a:hover {
+            background-color: rgb(215, 0, 0);
+        }
+       
+        .divimg{
+            display:flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .flex{
+
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            padding: 70px;
+            
+        }
+
+        .box1{
+            background-color: rgb(255, 255, 255);
+            border-radius: 10px;
+            width: 900px;
+            padding: 20px;
+            height: 250px;
+            display: flex;
+
+            justify-content: center;
+        }
+        .box2{
+            background-color: rgb(255, 255, 255);
+            border-radius: 10px;
+            width: 700px;
+            padding: 20px;
+            height: 550px;
+            display: flex;
+
+            justify-content: center;
+        }
+        .box3{
+            background-color: rgb(255, 255, 255);
+            border-radius: 10px;
+            width: 450px;
+            padding: 20px;
+            height: 100px;
+            display: flex;
+            justify-content: center;
+            align-content: center;
+        }
+        .conteinerhis{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100%;
+            padding: auto;
+        }
+
+        .historia1{
+            display: flex;
+            width: 25%;
+            height: 100%;
+            justify-content: center;
+            align-items: end;
+        }
+
+        .historia2{
+            display: flex;
+            width: 25%;
+            height: 100%;
+            justify-content: center;
+            align-items: end;
+        }
+        .sukunao{
+            width: 50%;
+            height: 100%;
+            padding: 50px;
+        }
+
+        .flexbox{
+            background-color: rgba(255, 255, 255, 0.842);
+display: flex;
+            flex-direction: column;
+            justify-items: center;
+            align-items: center;
+            gap: 80px;
+        }
+
+
+        footer{
+            display: flex;
+                background-color: rgb(50, 48, 48);
+                width: 100%;
+                height: 75px;
+                color: rgba(255, 255, 255, 0.158);
+            align-items: center;
+            justify-content: center;
+            font-family: Arial, Helvetica, sans-serif;
+           
+            }
+
+            .fun{
+                width: 600px;
+                height: 600px;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                
+            }
+            .fun2{
+                width: 600px;
+                height: 600px;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                
+            }
+            .fun3{
+                width: 600px;
+                height: 600px;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                
+            }.fun4{
+                width: 600px;
+                height: 600px;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                
+            }.fun5{
+                width: 600px;
+                height: 600px;
+                display: flex;
+                flex-direction: column;
+                justify-content: center;
+                align-items: center;
+                padding: 5px;
+            }
+            .pflexbox{
+                border-radius: 20px;
+                background-color: rgba(255, 255, 255, 0.842);
+                display: flex;
+                flex-wrap: wrap;
+                max-width: 1500px;
+                margin: 0 auto;
+            }
+           .mapa{
+            width: 100%;
+            display: flex;
+            justify-content: center;
+           }
+
+            
